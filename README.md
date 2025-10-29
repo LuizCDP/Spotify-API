@@ -82,9 +82,11 @@ Eles permitem ler informações do perfil e o status do player (sem controlar a 
 
 ## ⚠️ Importante
 
-> ⚠️ Não baixe nem modifique o código original.  
-> O uso é permitido apenas **integrado com o site de CDP**.  
-> Alterações ou redistribuições sem permissão são proibidas.
+> ⚠️ Tome cuidado com os ["Spotify Developer Terms"](https://developer.spotify.com/terms).
+
+> O site/widget é funcional apenas **integrado com o site do Spotify**.
+ 
+> Alterações ou redistribuições são completamente permitidas.
 
 ---
 
